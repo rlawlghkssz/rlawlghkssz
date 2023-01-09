@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi~ Kim Ji Hwan&fontSize=90" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlawlghkssz&count_bg=%230036FF&title_bg=%23000000&icon=happycow.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
