@@ -1,7 +1,10 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawlghkssz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawlghkssz&hide=javascript,html)
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawlghkssz&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/rlawlghkssz/github-readme-stats)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawlghkssz&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlawlghkssz&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
 <!--
